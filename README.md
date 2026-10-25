@@ -90,15 +90,14 @@ A blockchain banking prototype built with React and ethers.js for wallet connect
 - Building practical, deployment-oriented applications with real product logic
 - Exploring backend system design, data modeling, and scalable application workflows
 
-## GitHub Statistics
+## Core Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul15x&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul15x&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+- Backend Systems
+- Secure APIs
+- Database Design
+- Service Architecture
+- Clean, maintainable code
+- Scalable product logic
 
 ## Professional Contact
 
