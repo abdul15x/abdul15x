@@ -92,12 +92,19 @@ A blockchain banking prototype built with React and ethers.js for wallet connect
 
 ## Core Focus
 
-- Backend Systems
-- Secure APIs
-- Database Design
-- Service Architecture
-- Clean, maintainable code
-- Scalable product logic
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Developer-API%20Systems-0A66C2?style=for-the-badge&logo=server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Services-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Auth-JWT%20%26%20Security-5B7CFA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design-Scalable%20Systems-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Backend%20Patterns-8B5CF6?style=for-the-badge" />
+</p>
 
 ## Professional Contact
 
