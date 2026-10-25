@@ -1,17 +1,25 @@
 <svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#070B14"/>
-      <stop offset="0.5" stop-color="#111827"/>
-      <stop offset="1" stop-color="#0B1020"/>
+      <stop stop-color="#04070D"/>
+      <stop offset="0.35" stop-color="#0C1220"/>
+      <stop offset="1" stop-color="#090E18"/>
     </linearGradient>
-    <linearGradient id="neon" x1="220" y1="60" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+    <linearGradient id="neon" x1="120" y1="20" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
       <stop stop-color="#8B5CF6"/>
-      <stop offset="0.5" stop-color="#EC4899"/>
+      <stop offset="0.48" stop-color="#C084FC"/>
       <stop offset="1" stop-color="#22D3EE"/>
     </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 115) rotate(90) scale(150 150)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1280 120) rotate(90) scale(160 160)">
+      <stop stop-color="#22D3EE" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -19,18 +27,17 @@
     </filter>
   </defs>
 
-  <rect width="1600" height="420" rx="32" fill="url(#bg)"/>
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <circle cx="260" cy="110" r="150" fill="url(#glow1)"/>
+  <circle cx="1280" cy="120" r="170" fill="url(#glow2)"/>
 
-  <circle cx="140" cy="110" r="110" fill="#8B5CF6" fill-opacity="0.12"/>
-  <circle cx="1460" cy="120" r="130" fill="#22D3EE" fill-opacity="0.08"/>
-  <circle cx="1280" cy="330" r="150" fill="#EC4899" fill-opacity="0.08"/>
+  <path d="M85 300C205 230 325 195 470 170C625 143 760 172 905 210C1065 250 1175 268 1435 185" stroke="url(#neon)" stroke-opacity="0.85" stroke-width="3" stroke-linecap="round"/>
+  <path d="M65 328C208 255 322 225 495 214C642 205 782 235 930 264C1080 293 1195 305 1490 223" stroke="#8B5CF6" stroke-opacity="0.45" stroke-width="1.5" stroke-linecap="round"/>
 
-  <path d="M90 310C250 210 340 180 470 160C660 133 760 190 890 220C1030 253 1150 270 1410 160" stroke="url(#neon)" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
-  <path d="M70 328C240 240 350 215 500 195C665 174 770 222 900 246C1038 271 1150 290 1490 190" stroke="#8B5CF6" stroke-width="1.5" stroke-linecap="round" opacity="0.65"/>
+  <rect x="104" y="80" width="300" height="3" fill="url(#neon)" filter="url(#softGlow)"/>
+  <text x="104" y="140" fill="#F8FAFC" font-size="52" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1.2">ABDUL MOUEED</text>
+  <text x="104" y="190" fill="#F8FAFC" font-size="52" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1.2">AHMAD</text>
+  <text x="104" y="242" fill="url(#neon)" font-size="28" font-weight="600" font-family="Segoe UI, Arial, sans-serif" letter-spacing="5">BACKEND DEVELOPER</text>
 
-  <text x="105" y="185" fill="#F8FAFC" font-size="52" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1.2">ABDUL MOUEED AHMAD</text>
-  <text x="105" y="240" fill="url(#neon)" font-size="28" font-weight="600" font-family="Segoe UI, Arial, sans-serif" letter-spacing="4">BACKEND DEVELOPER</text>
-
-  <rect x="105" y="270" width="230" height="3" fill="url(#neon)" filter="url(#glow)"/>
-  <text x="105" y="318" fill="#CBD5E1" font-size="22" font-family="Segoe UI, Arial, sans-serif">Building scalable systems, clean APIs, and useful products.</text>
+  <text x="104" y="294" fill="#CBD5E1" font-size="22" font-family="Segoe UI, Arial, sans-serif">Building scalable systems, clean APIs, and useful products.</text>
 </svg>
