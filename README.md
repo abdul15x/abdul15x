@@ -60,8 +60,8 @@ React and Vite finance prototype focused on wallet interaction and transaction f
 
 - LinkedIn: [abdul15x](https://www.linkedin.com/in/abdul15/)
 - GitHub: [abdul15x](https://github.com/abdul15x)
-- Email: [Add your email]
-- Portfolio: [Add your portfolio URL]
+- Email: abdulmoueedahmad@gmail.com
+
 
 ## Footer
 
