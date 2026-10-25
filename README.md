@@ -6,16 +6,16 @@
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  I build reliable backend systems, secure APIs, and maintainable software focused on real-world product logic.
+  I build reliable backend systems, secure APIs, and maintainable services focused on practical product logic and long-term stability.
 </p>
 
 ## About Me
 
-I’m a backend-focused developer building services, APIs, and data-driven systems that need to be dependable, understandable, and easy to scale. I care about clean architecture, strong fundamentals, and practical engineering decisions that support long-term maintainability.
+I’m a backend-focused developer building services, APIs, and data-driven systems that need to be dependable, understandable, and easy to scale. I care about clean architecture, secure server-side logic, and engineering decisions that improve maintainability over time.
 
-My work spans backend services, authentication flows, database-backed applications, and product-oriented tooling that connects business logic with real users.
+My work centers on backend systems, database-backed applications, and product-oriented tooling that connects business logic with real users.
 
-## Core Stack
+## Technical Skills
 
 ### Languages
 
@@ -24,7 +24,7 @@ My work spans backend services, authentication flows, database-backed applicatio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Backend & Data
+### Backend and Data
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -32,7 +32,7 @@ My work spans backend services, authentication flows, database-backed applicatio
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-5B7CFA?style=for-the-badge)
 
-### Tools & Workflow
+### Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,41 +42,19 @@ My work spans backend services, authentication flows, database-backed applicatio
 ## Featured Projects
 
 ### [clinic-management-system](https://github.com/abdul15x/clinic-management-system)
-Clinic management backend built around structured services, secure access, and maintainable data workflows.
-
-- Java + Spring Boot
-- MongoDB persistence layer
-- JWT-based authentication and Spring Security
-- Dockerized local setup
+Clinic management backend built with Spring Boot and MongoDB for patient, appointment, and service workflows with JWT-based security.
 
 ### [Pitchbolt](https://github.com/abdul15x/Pitchbolt)
-Product-focused application built with modern frontend tooling and document-generation workflows.
-
-- Next.js + TypeScript + React
-- Tailwind-based UI and component structure
-- OpenAI-powered workflow integrations
-- Export and document generation utilities
+Next.js product built for generating pitch-ready documents and presentations with document libraries and AI-driven workflow integrations.
 
 ### [BankSol](https://github.com/abdul15x/BankSol)
-Financial application prototype focused on transaction flows and wallet interaction.
-
-- React + Vite frontend
-- JavaScript business logic
-- ethers integration for blockchain wallet functionality
-- Deployment-ready frontend setup
+React and Vite finance prototype focused on wallet interaction and transaction flows using ethers.js.
 
 ## What I'm Working On
 
-- Strengthening backend fundamentals in API design, security, and system architecture.
-- Building more production-ready Java/Spring projects with clean maintainable patterns.
+- Strengthening backend architecture, API design, and maintainable service patterns.
 - Improving authentication, data modeling, and deployment-ready application workflows.
-
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul15x&show_icons=true&theme=github_dark&hide_border=true&title_color=E2E8F0&icon_color=60A5FA&text_color=E2E8F0&bg_color=0B1120" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul15x&layout=compact&theme=github_dark&hide_border=true&title_color=E2E8F0&text_color=E2E8F0&bg_color=0B1120" alt="Top languages" height="180" />
-</p>
+- Building practical software that balances clean code with real-world product needs.
 
 ## Professional Contact
 
