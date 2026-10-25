@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/abdul15x.png" width="180" height="180" alt="Abdul Moueed Ahmad" style="border-radius:50%; border:3px solid #8b5cf6; box-shadow:0 0 30px rgba(139,92,246,0.45);" />
+  <img src="https://github.com/abdul15x.png" width="190" height="190" alt="Abdul Moueed Ahmad" style="border-radius:50%; border:3px solid #8b5cf6; box-shadow:0 0 30px rgba(139,92,246,0.55);" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Building scalable backend systems, clean APIs, and practical software that solve real-world problems.
+  <b>Building scalable systems, clean APIs, and practical software that solve real-world problems.</b>
 </p>
 
 <p align="center">
